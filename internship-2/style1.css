@@ -1,0 +1,17 @@
+*{
+    height: auto;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+}
+.page{
+    display: flex;
+    padding: 50%;
+}
+.img{
+    background-color: transparent;
+    padding: 10%;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    
+}
